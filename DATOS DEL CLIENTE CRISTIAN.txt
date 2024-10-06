@@ -1,0 +1,7 @@
+Prestamista: RICARDO
+Cliente: CRISTIAN
+Monto Inicial: 20000.0
+Tasa de Interés: 0.02 anual
+Tiempo: 5 años
+Interés Simple Calculado: 2000.0
+----------------------------
